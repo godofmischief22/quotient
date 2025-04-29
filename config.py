@@ -7,7 +7,7 @@ POSTGRESQL = {}
 
 EXTENSIONS = ()
 
-DISCORD_TOKEN = ""
+DISCORD_TOKEN = process.env.TOKEN,
 
 COLOR = 0x00FFB3
 
